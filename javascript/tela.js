@@ -1,4 +1,4 @@
-class Star{
+
     constructor(canvasWidth,canvasHeigth){
 
     }
@@ -8,6 +8,5 @@ class Star{
     }
 
     draw(ctx){
-        
+        ctx = docment.getElementById("meucanvas");
     }
-}
